@@ -6,3 +6,5 @@ JavaScript Canvas Demo
 ```
 open index.html
 ```
+
+![demo](./images/demo.jpg)
