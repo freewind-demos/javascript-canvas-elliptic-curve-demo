@@ -1,6 +1,8 @@
-Js Hello World Demo
-===================
+JavaScript Canvas Demo
+======================
 
-Open `index.html` in your browser.
+使用HTML的`canvas`画图。
 
-You will see "Hello, JS!" on the page.
+```
+open index.html
+```
